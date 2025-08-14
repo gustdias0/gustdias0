@@ -1,10 +1,10 @@
 # Luís Gustavo S. Dias
 
-> Estudante de Engenharia Elétrica e Ciência da Computação | Apaixonado por Análise de Dados, Tecnologia e Soluções Digitais.
+> Estudante Ciência da Computação | Apaixonado por Análise de Dados, Tecnologia e Soluções Digitais.
 
 ## 👨‍💻 Sobre Mim
 
-Sou um estudante dedicado e curioso, cursando simultaneamente Engenharia Elétrica na UNIVASF e Ciência da Computação na FACAPE. Minha paixão é aplicar a lógica e a estrutura do mundo da engenharia para construir soluções digitais inovadoras e eficientes.
+Sou um estudante dedicado e curioso, cursando Ciência da Computação na FACAPE. Minha paixão é construir soluções digitais inovadoras e eficientes.
 
 Minha experiência com suporte técnico e otimização de sistemas me proporcionou uma base sólida em resolução de problemas e análise de dados, com foco em clarificar informações para a geração de relatórios gerenciais. Além disso, minha atuação em projetos na equipe de robótica TATUBOTZ aprimorou minha capacidade de trabalhar em equipe sob pressão e transformar ideias em projetos funcionais.
 
