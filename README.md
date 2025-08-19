@@ -36,4 +36,4 @@ Busco ativamente por oportunidades de estágio ou colaboração nas áreas de Te
 ## 📊 Minhas Estatísticas no GitHub
 
 ![Estatísticas de Luís Gustavo no GitHub](https://github-readme-stats.vercel.app/api?username=gustdias0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustdias0&layout=compact&langs_count=8&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustdias0&layout=compact&langs_count=8&theme=dracula&cache_bust=true)
