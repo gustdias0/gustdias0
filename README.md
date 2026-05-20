@@ -1,145 +1,228 @@
-# Luís Gustavo Silva Dias
+<!--
+  GitHub Profile README for: gustdias0
+  Suggested positioning: Data • Automation • AI Solutions
+  Replace project links marked as "em documentação" when the repositories are public.
+-->
 
-<p align="left">
-  <strong>Data, Automation & AI Solutions Developer</strong><br/>
-  Estudante de Ciência da Computação focado em Engenharia de Dados, automações, integrações com IA e soluções digitais orientadas a negócio.
-</p>
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustdias0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=230&section=header&text=Lu%C3%ADs%20Gustavo%20S.%20Dias&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20%7C%20Automation%20%7C%20AI%20Solutions&descAlignY=56&descSize=18" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00D8FF&center=true&vCenter=true&width=900&lines=Automation+%26+AI+Solutions+Developer;Data+Engineering+%7C+Python+%7C+SQL+%7C+BI;Building+pipelines%2C+dashboards+and+AI+agents;Turning+manual+workflows+into+digital+solutions)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://www.linkedin.com/in/gustdias0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:luisgustavosilvadias592@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/gustdias0?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/gustdias0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=gustdias0&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
----
-
-## Sobre mim
-
-Sou desenvolvedor freelance de **dados, automação e soluções com IA**, com experiência prática em criação de pipelines ETL, integração de APIs, dashboards, agentes de IA e sistemas simples para transformar processos manuais em fluxos mais rápidos, rastreáveis e úteis para tomada de decisão.
-
-Tenho base em **suporte técnico, análise de dados e eletrônica embarcada**, o que me ajuda a enxergar problemas de forma prática: entender o processo, organizar os dados, automatizar o que é repetitivo e entregar uma solução que a pessoa final consiga usar.
-
-Atualmente estudo **Ciência da Computação na FACAPE** e aprofundo meus conhecimentos em **Python, SQL, Engenharia de Dados, Back-end, Power BI e IA aplicada a negócios**.
+</div>
 
 ---
 
-## Foco atual
+## 👨‍💻 Sobre mim
 
-- Construção de automações com **Python, N8N, APIs e bancos de dados**.
-- Desenvolvimento de pipelines de dados com **SQL, Pandas e integrações REST**.
-- Criação de dashboards e relatórios com **Power BI, Looker Studio e Excel avançado**.
-- Aplicação de **LLMs, agentes de IA e engenharia de prompt** em problemas reais.
-- Evolução em **Back-end, Docker, Cloud e arquitetura de dados**.
+Sou estudante de **Ciência da Computação** e desenvolvedor focado em **dados, automação e IA aplicada a negócios**.
 
----
+Tenho experiência construindo **pipelines ETL**, automações com **Python/N8N**, integrações com **APIs**, dashboards em **Power BI/Looker Studio** e soluções simples de software para transformar processos manuais em fluxos mais claros, rápidos e escaláveis.
 
-## Stack principal
+```mermaid
+flowchart LR
+    A[Processos manuais] --> B[APIs, ETL e automações]
+    B --> C[Dados limpos e estruturados]
+    C --> D[Dashboards e relatórios]
+    C --> E[Agentes de IA]
+    D --> F[Decisão de negócio]
+    E --> F
+```
 
-### Dados, Back-end e Automação
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N"/>
-</p>
-
-### BI, Cloud e Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-### IA e Integrações
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-</p>
+- 🔭 Atualmente trabalho como **Automation & AI Solutions Developer — Freelance**.
+- 📊 Meu foco principal é unir **engenharia de dados**, **automação** e **inteligência artificial** para resolver problemas reais.
+- 🤖 Também tenho experiência com eletrônica, sistemas embarcados e robótica pela equipe **TATUBOTz**.
+- 🎯 Objetivo atual: evoluir como **Data Engineer / Backend Developer** com foco em produtos orientados por dados.
 
 ---
 
-## Projetos em destaque
+## 🧠 Stack principal
 
-> Estou organizando meus principais projetos para documentação pública. A ideia aqui é mostrar problemas reais, stack usada e impacto gerado, não apenas listar tecnologias.
+<div align="center">
 
-| Projeto | O que resolve | Stack | Status |
-|---|---|---|---|
-| **Assistente de Suporte Emocional via WhatsApp** | Chatbot com memória persistente, acompanhamento de sessões e relatórios para usuário e profissional de saúde. | Python, Claude API, N8N, Supabase | Em documentação |
-| **Pipeline Automatizado de Vendas e Relatórios** | Extração, tratamento e visualização de dados para reduzir consolidação manual de relatórios. | Python, SQL, Pandas, Power BI, N8N | Em documentação |
-| **Dashboards e Relatórios Gerenciais** | Visualização de KPIs operacionais para melhorar leitura de gargalos e performance. | Power BI, Excel, SQL, Looker Studio | Em documentação |
-| **Telemetria e Diagnóstico para Robótica** | Análise de dados de testes eletrônicos para apoiar diagnóstico de falhas em robôs de competição. | Python, eletrônica embarcada, Git | Em documentação |
+### Linguagens, dados e backend
 
----
+<img src="https://skillicons.dev/icons?i=python,r,c,postgres,mysql,sqlite,git,github,docker,gcp&theme=dark" alt="Linguagens, bancos e ferramentas" />
 
-## Experiência recente
+<br/><br/>
 
-### Automation & AI Solutions Developer — Freelance  
-**2025 — atual | Remoto**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=000)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-- Desenvolvimento de automações, agentes de IA e integrações com APIs para otimizar processos operacionais.
-- Criação de pipelines de dados, dashboards e interfaces simples para consumo de informações.
-- Atuação direta com clientes: levantamento de requisitos, prototipação, implementação e entrega final.
-
-### Membro de Eletrônica — TATUBOTz / UNIVASF  
-**2024 — 2025 | Juazeiro, BA**
-
-- Desenvolvimento, manutenção e testes de sistemas eletrônicos embarcados.
-- Integração de sensores, atuadores e circuitos para robôs de competição.
-- Colaboração com equipes de programação e mecânica em ambiente multidisciplinar.
-
-### Operador de Computador — Serviços para o Varejo  
-**2022 — 2024 | Petrolina, PE**
-
-- Suporte técnico e operacional para sistemas utilizados por clientes.
-- Otimização de relatórios com Excel avançado, SQL e tratamento de dados.
-- Redução de mais de 25% no tempo de consolidação de dados gerenciais.
+</div>
 
 ---
 
-## Formação e certificações selecionadas
+## 🚀 Projetos em destaque
 
-- **Bacharelado em Ciência da Computação** — FACAPE
-- **Google Data Analytics Professional Certificate** — Coursera / Google
-- **Santander 2025 — Ciência de Dados com Python** — DIO
-- **Intermediate Python** — DataCamp
-- **Google AI Essentials** — Google
-- **Power BI** — Santander Open Academy
-- **Bootcamp Klabin — Excel e Power BI Dashboards** — DIO
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Assistente de Suporte Emocional via WhatsApp</h3>
+      <p>
+        Chatbot com IA, memória persistente e relatórios para acompanhamento humano. Projeto pensado com foco em privacidade, rastreabilidade e apoio profissional, sem substituir atendimento especializado.
+      </p>
+      <p>
+        <strong>Stack:</strong> Python · Claude API · N8N · Supabase · WhatsApp
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/status-em%20documenta%C3%A7%C3%A3o-yellow?style=flat-square" alt="status" />
+        <img src="https://img.shields.io/badge/foco-IA%20aplicada-blue?style=flat-square" alt="foco" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Pipeline Automatizado de Vendas e Relatórios</h3>
+      <p>
+        Pipeline ETL para extrair, tratar e carregar dados comerciais em dashboards, reduzindo consolidação manual e melhorando a leitura de KPIs operacionais.
+      </p>
+      <p>
+        <strong>Stack:</strong> Python · SQL · Pandas · Power BI · N8N
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/status-em%20documenta%C3%A7%C3%A3o-yellow?style=flat-square" alt="status" />
+        <img src="https://img.shields.io/badge/foco-ETL%20%26%20BI-blue?style=flat-square" alt="foco" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧹 Data Cleaning & Analytics Lab</h3>
+      <p>
+        Estudos e cases práticos de limpeza, transformação e análise de dados usando Python, SQL, R e visualização para responder perguntas de negócio.
+      </p>
+      <p>
+        <strong>Stack:</strong> Python · SQL · R · Jupyter · Tableau/Power BI
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/status-em%20evolu%C3%A7%C3%A3o-blue?style=flat-square" alt="status" />
+        <img src="https://img.shields.io/badge/foco-analytics-green?style=flat-square" alt="foco" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Robótica, Eletrônica e Telemetria</h3>
+      <p>
+        Desenvolvimento e testes de sistemas eletrônicos embarcados, sensores e análise de dados de robôs de competição em ambiente multidisciplinar.
+      </p>
+      <p>
+        <strong>Stack:</strong> C · Python · Sensores · Git/GitHub · Eletrônica
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/status-experi%C3%AAncia%20t%C3%A9cnica-purple?style=flat-square" alt="status" />
+        <img src="https://img.shields.io/badge/foco-embedded%20systems-blue?style=flat-square" alt="foco" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+> Repositórios públicos com documentação completa serão adicionados aqui. A prioridade é publicar cases com problema, arquitetura, solução, impacto e aprendizados.
 
 ---
 
-## GitHub Stats
+## 🧩 O que eu entrego
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gustdias0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustdias0&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
+<div align="center">
+
+| Área | Como aplico |
+|---|---|
+| **Automação** | Criação de fluxos com Python, N8N e integrações entre sistemas |
+| **Dados** | ETL, limpeza, modelagem simples, consultas SQL e dashboards |
+| **IA aplicada** | Agentes, prompts estruturados, integrações com LLMs e automações inteligentes |
+| **BI** | Relatórios, KPIs, storytelling e visualização para tomada de decisão |
+| **Sistemas simples** | Interfaces web, bancos de dados e APIs para consumo de dados |
+
+</div>
 
 ---
 
-## Vamos conversar
+## 📚 Formação e certificações selecionadas
 
-Estou aberto a oportunidades de **estágio, projetos freelance e colaborações** em dados, automação, IA aplicada, BI e desenvolvimento back-end.
+- 🎓 **Ciência da Computação** — FACAPE
+- 📊 **Google Data Analytics Professional Certificate** — Coursera/Google
+- 🐍 **Santander 2025 — Ciência de Dados com Python** — DIO
+- 📈 **Bootcamp Klabin — Excel e Power BI Dashboards** — DIO
+- 🤖 **Google AI Essentials** — Google
+- 🧠 **Intermediate Python** — DataCamp
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustdias0">LinkedIn</a> •
-  <a href="mailto:luisgustavosilvadias592@gmail.com">E-mail</a> •
-  <a href="https://github.com/gustdias0?tab=repositories">Repositórios</a>
-</p>
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustdias0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustdias0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=gustdias0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gustdias0&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustdias0&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+<!--
+Optional: Snake animation.
+To use this section, add the snake.yml workflow to .github/workflows/snake.yml.
+Then uncomment the block below.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustdias0/gustdias0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustdias0/gustdias0/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/gustdias0/gustdias0/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+-->
+
+---
+
+## 📬 Vamos conversar?
+
+<div align="center">
+
+Estou aberto a oportunidades, colaboração em projetos de dados, automação, IA aplicada e desenvolvimento de soluções digitais.
+
+<a href="mailto:luisgustavosilvadias592@gmail.com">
+  <img src="https://img.shields.io/badge/Enviar%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" />
+</a>
+<a href="https://www.linkedin.com/in/gustdias0/" target="_blank">
+  <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer" />
+
+</div>
